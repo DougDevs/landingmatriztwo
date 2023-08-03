@@ -150,8 +150,8 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             Desenvolvido por SC DataLink {" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            <a href="http://www.scdatalink.com" rel="nofollow">
+              SC DataLink
             </a>
           </p>
         </div>
